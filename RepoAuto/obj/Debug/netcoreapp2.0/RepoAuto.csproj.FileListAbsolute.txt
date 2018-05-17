@@ -1,0 +1,12 @@
+C:\Users\Miguel\Udemy\RepoAuto\RepoAuto\bin\Debug\netcoreapp2.0\RepoAuto.deps.json
+C:\Users\Miguel\Udemy\RepoAuto\RepoAuto\bin\Debug\netcoreapp2.0\RepoAuto.runtimeconfig.json
+C:\Users\Miguel\Udemy\RepoAuto\RepoAuto\bin\Debug\netcoreapp2.0\RepoAuto.runtimeconfig.dev.json
+C:\Users\Miguel\Udemy\RepoAuto\RepoAuto\bin\Debug\netcoreapp2.0\RepoAuto.dll
+C:\Users\Miguel\Udemy\RepoAuto\RepoAuto\bin\Debug\netcoreapp2.0\RepoAuto.pdb
+C:\Users\Miguel\Udemy\RepoAuto\RepoAuto\obj\Debug\netcoreapp2.0\RepoAuto.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Udemy\RepoAuto\RepoAuto\obj\Debug\netcoreapp2.0\RepoAuto.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Udemy\RepoAuto\RepoAuto\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Miguel\Udemy\RepoAuto\RepoAuto\obj\Debug\netcoreapp2.0\RepoAuto.AssemblyInfoInputs.cache
+C:\Users\Miguel\Udemy\RepoAuto\RepoAuto\obj\Debug\netcoreapp2.0\RepoAuto.AssemblyInfo.cs
+C:\Users\Miguel\Udemy\RepoAuto\RepoAuto\obj\Debug\netcoreapp2.0\RepoAuto.dll
+C:\Users\Miguel\Udemy\RepoAuto\RepoAuto\obj\Debug\netcoreapp2.0\RepoAuto.pdb
